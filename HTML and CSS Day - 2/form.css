@@ -1,0 +1,7 @@
+li{
+    list-style-type: none;
+}
+ 
+table, th , td{
+    border: 2px solid black;
+}
